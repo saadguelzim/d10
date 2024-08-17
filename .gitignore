@@ -1,0 +1,5 @@
+.env
+db-data/
+drupal-data/
+vendor/
+web/sites/default/files/
